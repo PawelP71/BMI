@@ -10,4 +10,4 @@ elif 18.5 <= BMI < 24.9:
 elif 25 <= BMI < 29.9:
     print('nadwaga')
 elif BMI > 30:
-    print('za gruby')
+    print('otyłość')
